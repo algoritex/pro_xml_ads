@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-10-20 02:05+0200\n"
+"PO-Revision-Date: 2016-10-28 13:22+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+
+msgid "Pro XML Ads"
+msgstr "Pro XML Ads"
+
+msgid ">> Import"
+msgstr ">> Importar"
+
+msgid ">> Export"
+msgstr ">> Exportar"
+
+msgid ">> Help"
+msgstr ">> Ayuda"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Insert XML Tags"
+msgstr "Insertar Tags XML"
+
+msgid "Tag Category"
+msgstr "Tag Categoria"
+
+msgid "Tag Title"
+msgstr "Tag Título"
+
+msgid "Tag Description"
+msgstr "Tag Descripción"
+
+msgid "Tag Price"
+msgstr "Tag Precio"
+
+msgid "Tag Currency"
+msgstr "Tag Moneda"
+
+msgid "Tag Country"
+msgstr "Tag País"
+
+msgid "Tag Region"
+msgstr "Tag Region"
+
+msgid "Tag City"
+msgstr "Tag Ciudad"
+
+msgid "Tag City Area"
+msgstr "Tag Area"
+
+msgid "Tag Address"
+msgstr "Tag Dirección"
+
+msgid "Tag Zip"
+msgstr "Tag CP"
+
+msgid "Tag Name"
+msgstr "Tag Nombre"
+
+msgid "Tag Email"
+msgstr "Tag Email"
+
+msgid "Tag Photo 1"
+msgstr "Tag Foto 1"
+
+msgid "Tag Photo 2"
+msgstr "Tag Foto 2"
+
+msgid "Tag Photo 3"
+msgstr "Tag Foto 3"
+
+msgid "Tag Photo 4"
+msgstr "Tag Foto 4"
+
+msgid "Load XML"
+msgstr "Cargar XML"
+
+msgid "File Options"
+msgstr "Opciones del archivo"
+
+msgid "XML URL"
+msgstr "XML URL"
+
+msgid "Upload XML File"
+msgstr "Subir archivo XML"
+
+msgid "Default Data"
+msgstr "Valores por defecto"
+
+msgid "Create non existent categories"
+msgstr "Crear categorías no existentes"
+
+msgid "Default Category"
+msgstr "Categoría por defecto"
+
+msgid "Select Default Category"
+msgstr "Seleccionar Categoría por defecto"
+
+msgid "Default Contact Name"
+msgstr "Nombre de contacto por defecto"
+
+msgid "Default Contact Email"
+msgstr "Email por defecto"
+
+msgid "Default Currency"
+msgstr "Moneda por defecto"
+
+msgid "Select Default Currency"
+msgstr "Seleccionar moneda por defecto"
+
+msgid "Default Country"
+msgstr "País por defecto"
+
+msgid "Default Region"
+msgstr "Región por defecto"
+
+msgid "Default City"
+msgstr "Ciudad por defecto"
+
+msgid "Default City Area"
+msgstr "Area por defecto"
+
+msgid "Default Expiration Days"
+msgstr "Días para la expiración por defecto"
+
+msgid "Empty or 0, never expires"
+msgstr "Vacío o 0, nunca expira"
+
+msgid "Custom tags"
+msgstr "Tags propios"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Title"
+msgstr "Titulo"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Price"
+msgstr "precio"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Region"
+msgstr "Región"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "City Area"
+msgstr "Area"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Zip"
+msgstr "CP"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Photos"
+msgstr "Fotos"
+
+msgid "Error, XML not found or wrong"
+msgstr "Error, XML no encontrado o erróneo"
+
+msgid "Total Ads:"
+msgstr "Anuncios totales"
+
+msgid "Success:"
+msgstr "Éxito"
+
+msgid "Failed:"
+msgstr "Fallados"
+
+msgid "Errors:"
+msgstr "Errores"
+
+msgid "Item:"
+msgstr "Elemento"
+
+msgid "Line:"
+msgstr "Línea"
+
+msgid "Error, category tag not found"
+msgstr "Error, Tag categoría no encontrado"
+
+msgid "Error, email tag not found"
+msgstr "Error, Tag email no encontrado"
+
+msgid "Error, title tag not found"
+msgstr "Error, Tag título no encontrado"
+
+msgid "Error, description tag not found"
+msgstr "Error, Tag descripción no encontrado"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Error happened generating XML file"
+msgstr "Error, no se ha podido generar archivo XML"
+
+msgid "XML Generated successfully:"
+msgstr "XML generado con éxito"
+
+msgid "No ads in the system"
+msgstr "No hay anuncios en el sistema"
+
+msgid "The import feature allows you to import ads from a XML file to your system."
+msgstr "La funcionalidad de importar, te permite importar anuncios desde un fichero XML a tu sistema"
+
+msgid "Steps:"
+msgstr "Pasos"
+
+msgid "1) Load from an url or from your HD"
+msgstr "1) Carga desde una url o desde disco"
+
+msgid "2) Set the corresponding xml tags from your file"
+msgstr "2) Introduce los correspondientes tags xml del archivo"
+
+msgid "3) Make sure the tags name you set match with the ones of the XML file"
+msgstr "3) Asegúrate que el nombre introducido corresponde con los tags del archivo XML"
+
+msgid "4) Execute the import"
+msgstr "4) Ejecuta la importación"
+
+msgid "- Categories that do not exist in the system will be skipped by default. To create non existent categories mark, the checkbox Create non existent categories"
+msgstr "- Las categorías que no existen por defecto serán obviadas. Para crear las categorías que no existan, marca el checkbox Crear categorías no existentes"
+
+msgid "- When executing the import, in case mandatory tag is not found or found with a wrong value, the ad will be skiped from the importation"
+msgstr "- Cuando se está ejecutando la importación, en caso de que un tag obligatorio no se haya introducido  or tenga un valor erróneo, el anuncio será omitido de la importación"
+
+msgid "- Default Data: Lets you to assign default values for all the ad. In case both default data and tags are define, the tag value will have preference"
+msgstr "Valores por defecto: Te permite asignar valores por defecto para todos los anuncios a importar. En caso de que el valor por defecto y el tag esten definidos, se utilizará el valor del tag"
+
+msgid "- Mandatories attributes are [ XML url, Category, Email, Title, Description ]. These  values need to be set via default values or the corresponding XML tag"
+msgstr "- Atributos obligatorios son <strong>[ XML url, Categoría, Email, Título, Descripción ]</strong>. Estos valores tienen que ser introducidos mediante valores por defecto o con su correspondiente tag XML"
+
+msgid "fotoHelp"
+msgstr "- El nombre de tag para las fotos deberá contener el tag del fichero XML sin el número de foto. Ej: <strong> 'foto' => el xml tendrá que tener los tags como: 'foto1, foto2, foto3 ...</strong>"
+
+msgid "- Custom fields that do not exist will be created will be created automatically in the system"
+msgstr "- Los atributos personalizados que no existan se crearán automáticamente"
+
+msgid "Export feature allows you to export all ads of your system into a single XML file"
+msgstr "La funcionalidad de exportar permite exportar todos los anuncions del sistema a un archivo XML"
+
+msgid "- Default tags are: [ category, title, description, price, currency country, region, city, area, zip, address, name, email ]"
+msgstr "- Tags por defecto son: <strong>[ category, title, description, price, currency country, region, city, area, zip, address, name, email ]</strong>"
+
+msgid "- Default Tag Photo is: [ photo ]. It will be added to xml followed by the position: &lt;photo1&gt;&lt;photo1/&gt;&lt;photo2&gt;&lt;photo2/&gt;&lt;photo3&gt;&lt;photo3/&gt;&lt;photo4&gt;&lt;photo4/&gt; ..."
+msgstr "- Default Tag Foto es: <strong>[ photo ]</strong>. Las fotos serán añadidas al xml seguidas de la posición: <strong>lt;photo1&gt;&lt;photo1/&gt;&lt;photo2&gt;&lt;photo2/&gt;&lt;photo3&gt;&lt;photo3/&gt;&lt;photo4&gt;&lt;photo4/&gt; ...</strong>"
+
+msgid "- Tags not defined by the user will use its corresponding default tag"
+msgstr "- Para los tags no definidos por el usuario se usaran los corresponientes valores por defecto"
+
+msgid "Userads"
+msgstr "Elegir usuario para los anuncios"
+
+msgid "Default User"
+msgstr "Elegir Usuario"
+
+msgid "TextPhotosTag"
+msgstr "- Tag Fotos en el xml tiene que ser: nombre_tag_fotos+n n=1,2,3 ... <strong>Ej: Para 'foto' como nombre de tag => foto1, foto2, foto3, etc.</strong>"
+
+msgid "AddCustomField"
+msgstr "Añadir Campo personalizado"
+
+msgid "CustomFieldTag"
+msgstr "campo_personalizado"
+
+msgid "TextChooseUser"
+msgstr "* El usuario elegido será el propietario de todos los anuncios"

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<listings>
+    <listing>
+        <title>Seat Leon</title>
+        <description>
+            <![CDATA[Lor4em ipsum dolor sit amet, consectetur adipiscing elit. Donec id nulla dolor. Ut aliquet, mauris id molestie porttitor, dui lorem pretium sem, quis vestibulum orci purus ultrices lacus. Nulla accumsan tortor porta nibh consequat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi elementum venenatis ante eu porta. Curabitur ultricies nunc vel elit rutrum scelerisque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse rutrum lectus quis sem malesuada nec placerat sapien malesuada.]]></description>
+        <category>Cars New Category</category>
+        <contactemail>test@test.com</contactemail>
+        <contactname>Mr.Phill</contactname>
+        <price>20000.45</price>
+        <currency>EUR</currency>
+        <country>Spain</country>
+        <city>Madrid</city>
+        <region>Madrid</region>
+        <address>Calle Canillas 124</address>
+        <photo1>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo1>
+        <photo2>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo2>
+        <photo3>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo3>
+        <photo4>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo4>
+        <photo5>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo5>
+        <photo6>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo6>
+        <photo7>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo7>
+        <photo8>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo8>
+        <photo9>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo9>
+        <photo10>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo10>
+        <photo11>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo11>
+        <photo12>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/leon1.jpg</photo12>
+        <customfieldtest1>value text field test1</customfieldtest1>
+        <customfieldtest2>value text field test2</customfieldtest2>
+        <customfieldtest3>value text field test3</customfieldtest3>
+    </listing>
+    <listing>
+        <title>Play Station</title>
+        <description>
+            <![CDATA[Lor4em ipsum dolor sit amet, consectetur adipiscing elit. Donec id nulla dolor. Ut aliquet, mauris id molestie porttitor, dui lorem pretium sem, quis vestibulum orci purus ultrices lacus. Nulla accumsan tortor porta nibh consequat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi elementum venenatis ante eu porta. Curabitur ultricies nunc vel elit rutrum scelerisque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse rutrum lectus quis sem malesuada nec placerat sapien malesuada.]]></description>
+        <category>Electronics</category>
+        <contactemail>testmail@tes.com</contactemail>
+        <contactname>John Does</contactname>
+        <price>12000.00</price>
+        <currency>EUR</currency>
+        <country>England</country>
+        <city>London</city>
+        <region>London</region>
+        <address>Regent Street 13</address>
+        <photo1>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/play1.jpg</photo1>
+        <photo2>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/play2.jpg</photo2>
+        <customfieldtest4>value text field test4</customfieldtest4>
+        <customfieldtest5>value text field test5</customfieldtest5>
+        <customfieldtest6>value text field test6</customfieldtest6>
+        <customfieldtest7>value text field test7</customfieldtest7>
+        <customfieldtest8>value text field test8</customfieldtest8>
+        <customfieldtest9>value text field test9</customfieldtest9>
+    </listing>
+    <listing>
+        <title>XBox</title>
+        <description>
+            <![CDATA[Lor4em ipsum dolor sit amet, consectetur adipiscing elit. Donec id nulla dolor. Ut aliquet, mauris id molestie porttitor, dui lorem pretium sem, quis vestibulum orci purus ultrices lacus. Nulla accumsan tortor porta nibh consequat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi elementum venenatis ante eu porta. Curabitur ultricies nunc vel elit rutrum scelerisque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse rutrum lectus quis sem malesuada nec placerat sapien malesuada.]]></description>
+        <category>Electronics</category>
+        <contactemail>testmail@tes.com</contactemail>
+        <contactname>John Does</contactname>
+        <price>350.00</price>
+        <currency>EUR</currency>
+        <country>Italy</country>
+        <city>Rome</city>
+        <region>Lazio</region>
+        <address>Calle Canillas</address>
+        <photo1>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/xbox1.jpg</photo1>
+        <photo2>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/xbox1.jpg</photo2>
+        <photo3>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/xbox2.jpg</photo3>
+        <photo4>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/xbox2.jpg</photo4>
+        <photo5>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/xbox1.jpg</photo5>
+        <photo6>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/xbox1.jpg</photo6>
+        <photo7>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/xbox2.jpg</photo7>
+        <photo8>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/xbox2.jpg</photo8>
+        <customfieldtest10>value text field test10</customfieldtest10>
+        <customfieldtest11>value text field test11</customfieldtest11>
+        <customfieldtest12>value text field test12</customfieldtest12>
+        <customfieldtest13>value text field test13</customfieldtest13>
+        <customfieldtest14>value text field test14</customfieldtest14>
+        <customfieldtest15>value text field test15</customfieldtest15>
+    </listing>
+    <listing>
+        <title>Samsung Galaxy S7</title>
+        <description>
+            <![CDATA[Lor4em ipsum dolor sit amet, consectetur adipiscing elit. Donec id nulla dolor. Ut aliquet, mauris id molestie porttitor, dui lorem pretium sem, quis vestibulum orci purus ultrices lacus. Nulla accumsan tortor porta nibh consequat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi elementum venenatis ante eu porta. Curabitur ultricies nunc vel elit rutrum scelerisque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse rutrum lectus quis sem malesuada nec placerat sapien malesuada.]]></description>
+        <category>Electronics</category>
+        <contactemail>testmail@tes.com</contactemail>
+        <contactname>John Does</contactname>
+        <price>850</price>
+        <currency>EUR</currency>
+        <country>Italy</country>
+        <city>Rome</city>
+        <region>Lazio</region>
+        <address>Calle Canillas</address>
+        <photo1>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/sg1.png</photo1>
+        <photo2>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/sg2.png</photo2>
+        <photo3>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/sg1.png</photo3>
+        <photo4>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/sg2.png</photo4>
+        <photo5>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/sg1.png</photo5>
+        <photo6>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/sg2.png</photo6>
+        <customfieldtest1>value text field test1</customfieldtest1>
+        <customfieldtest2>value text field test2</customfieldtest2>
+        <customfieldtest3>value text field test3</customfieldtest3>
+    </listing>
+    <listing>
+        <title>Iphone S6</title>
+        <description> <![CDATA[Lor4em ipsum dolor sit amet, consectetur adipiscing elit. Donec id nulla dolor. Ut aliquet, mauris id molestie porttitor, dui lorem pretium sem, quis vestibulum orci purus ultrices lacus. Nulla accumsan tortor porta nibh consequat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi elementum venenatis ante eu porta. Curabitur ultricies nunc vel elit rutrum scelerisque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse rutrum lectus quis sem malesuada nec placerat sapien malesuada.]]></description>
+        <category>Electronics</category>
+        <contactemail>testmail@tes.com</contactemail>
+        <contactname>John Does</contactname>
+        <price>50.99</price>
+        <currency>EUR</currency>
+        <country>England</country>
+        <city>Liverpool</city>
+        <region></region>
+        <address>XXXXX Street 13</address>
+        <photo1>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/iphone1.png</photo1>
+        <photo2>http://proxml-demo.algoritex.com/oc-content/plugins/pro_xml_ads/photos/iphone2.jpg</photo2>
+        <customfieldtest1>value text field test1</customfieldtest1>
+        <customfieldtest2>value text field test2</customfieldtest2>
+        <customfieldtest3>value text field test3</customfieldtest3>
+    </listing>
+</listings>
